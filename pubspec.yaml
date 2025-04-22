@@ -1,0 +1,13 @@
+name: flutter_apk
+description: Basit bir Flutter uygulaması
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
